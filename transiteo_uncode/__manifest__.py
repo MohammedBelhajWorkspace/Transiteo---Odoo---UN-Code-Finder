@@ -3,10 +3,10 @@
     'name': "UN Code Classification",
 
     'summary': """
-        Automatic classification of your products into HS Tariff Codes in any country.""",
+        Automatic classification of your products into UN Codes in any country.""",
 
     'description': """
-        Thanks to transiteo's artificial intelligence, you can now classify your products into HS Tariff Codes automatically. Don't waste any more time or money getting this information.
+        Thanks to transiteo's artificial intelligence, you can now classify your products into UN Codes automatically. Don't waste any more time or money getting this information.
     """,
 
     # 'author': "Mohammed Belhaj",
